@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/*
+OList의 값을 사용자가 지정한 만큼 NList에 덮어 씌우는 코드
+*/
 public class HelloWorld {
     public static void main(String[] args) {
         String[] OList = {"3.1", "3.11", "NT", "95", "98", "2000", "ME", "XP", "Vista", "7", "8", "8.1", "10", "11"};
