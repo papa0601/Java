@@ -6,7 +6,7 @@ This code is compiled in intelliJ
 */
 public class ListChange {
     public static void main(String[] args) {
-        String[] olist = {"3.1", "3.11", "NT", "95", "98", "2000", "ME", "XP", "Vista", "7", "8", "8.1", "10", "11"};
+        String[] olist = {"1.0", "2.0", "3.0", "3.1", "3.11", "NT", "95", "98", "2000", "ME", "XP", "Vista", "7", "8", "8.1", "10", "11"};
         Scanner counter = new Scanner(System.in);
         System.out.print("리스트를 불러올 범위를 지정해주세요(1~" + olist.length + ")>>>");
         int count = counter.nextInt() - 1;
