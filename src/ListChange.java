@@ -1,9 +1,4 @@
 import java.util.Scanner;
-
-/*
-olist의 값을 사용자가 지정한 만큼 nlist에 덮어 씌우는 코드
-This code is compiled in intelliJ
-*/
 public class ListChange {
     public static void main(String[] args) {
         String[] olist = {"1.0", "2.0", "3.0", "3.1", "3.11", "NT", "95", "98", "2000", "ME", "XP", "Vista", "7", "8", "8.1", "10", "11"};
@@ -20,6 +15,5 @@ public class ListChange {
             nlist[i] = olist[i];
             System.out.println(nlist[i]);
         }
-
     }
 }
