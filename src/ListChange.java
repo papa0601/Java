@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 /*
 olist의 값을 사용자가 지정한 만큼 nlist에 덮어 씌우는 코드
+This code is compiled in intelliJ
 */
 public class ListChange {
     public static void main(String[] args) {
