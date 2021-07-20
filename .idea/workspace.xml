@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76697665-26c5-400e-947b-97ad4a011160" name="디폴트 변경 목록" comment="">
-      <change beforePath="$PROJECT_DIR$/src/dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/luck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +30,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="애플리케이션.luck">
     <configuration name="dice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dice" />
       <module name="Java" />
@@ -37,8 +38,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="luck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="luck" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.luck" />
         <item itemvalue="애플리케이션.dice" />
       </list>
     </recent_temporary>
