@@ -7,7 +7,7 @@ public class dice {
         while (true) {
             int rannum = rand.nextInt(6) + 1;
             System.out.println("주사위의 수는 " + rannum + "입니다.\n");
-            System.out.print("나가려면 0을 입력하세요. 1을 입력하면 다시 시작됩니다>>>");
+            System.out.print("나가려면 0을 입력하세요. 1을 입력하면 주사위를 다시 굴리게 됩니다>>>");
             int con = check.nextInt();
             if (con == 0) {
                 break;
